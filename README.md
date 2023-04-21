@@ -1,0 +1,2 @@
+# AES_GCM_NoPadding_IVseparado
+Encryption AES_GCM_NoPadding_IVseparado

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>AES_GCM_NoPadding_IVseparado</name>
+	<name>AES_GCM_NoPadding_IV</name>
 	<comment></comment>
 	<projects>
 	</projects>

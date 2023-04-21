@@ -7,7 +7,7 @@ import javax.crypto.spec.GCMParameterSpec;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
-public class AES_GCM_NoPadding_IVseparado {
+public class AES_GCM_NoPadding_IV {
 	private static final String key128 = "aesEncryptionKey"; // valid for 128, 16 Characteres * 8 = 128bits
 	private static final String key256 = "aesEncryptionKeyaesEncryptionKey"; // valid for 256, 32 characteres * 8 =
 																				// 256bits
